@@ -32,6 +32,4 @@ title: Appendix - Example Controller Table for the ESP32
 | USB Programmer | ?           | 1      | ?                              |
 | ...            |
 
-
-
 \* The ESP32-S2 has multiple SPI interfaces, but some are for internal use

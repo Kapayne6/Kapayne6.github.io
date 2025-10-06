@@ -6,10 +6,8 @@ title: Schematic
 
 This schematic is design to support .... (highlight functionally, power, and controller).
 
-
 ![schematic](Screenshot.png){style width:"350" height:"300;"}
 **Figure ##:** Showing a example schematic.
-
 
 ## Resouces
 
