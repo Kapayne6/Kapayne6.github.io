@@ -6,12 +6,12 @@ title: Component Selection
 
 **Thermistor / Thermometer**
 
-1. LM35DZ/NOPB 
+1. LM35DZ/NOPB Thermometer
 
     ![](Thermo1.png)
 
-    * $1/each
-    * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
+    * $1.67/each
+    * [LM35DZ/NOPB]([http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366](https://www.digikey.com/en/products/detail/texas-instruments/LM35DZ-NOPB/32489?))
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -19,12 +19,12 @@ title: Component Selection
     | Compatible with PSoC                      | Needs special PCB layout.                                        |
     | Meets surface mount constraint of project |
 
-1. CTX936TR-ND surface mount oscillator
+2. SNS-DHT11 Thermistor
 
     ![](Thermo2.png)
 
     * $1/each
-    * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
+    * [SNS-DHT11]([http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940](https://www.digikey.com/en/products/detail/olimex-ltd/SNS-DHT11/21662551))
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
