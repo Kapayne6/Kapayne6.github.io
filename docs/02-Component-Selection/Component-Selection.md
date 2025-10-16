@@ -15,23 +15,23 @@ title: Component Selection
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
-    | Inexpensive                               | Requires external components and support circuitry for interface |
-    | Compatible with PSoC                      | Needs special PCB layout.                                        |
-    | Meets surface mount constraint of project |
+    | Inexpensive                               | Doesnt meet project requirements of filtering signals            |
+    | Compatible with PSoC                      | Small component and harder to mount to project                   |
+    | Works with simple connection and no code  |
 
 2. SNS-DHT11 Thermistor
 
     ![](Thermo2.png)
 
-    * $1/each
+    * $4.37/each
     * [SNS-DHT11](https://www.digikey.com/en/products/detail/olimex-ltd/SNS-DHT11/21662551)
 
-    | Pros                                                              | Cons                |
-    | ----------------------------------------------------------------- | ------------------- |
-    | Outputs a square wave                                             | More expensive      |
-    | Stable over operating temperature                                 | Slow shipping speed |
-    | Direct interface with PSoC (no external circuitry required) range |
+    | Pros                                                              | Cons                  |
+    | ----------------------------------------------------------------- | --------------------- |
+    | Provides multiple readings (Temperature/Humidity)                 | More expensive        |
+    | Through hole connection and comes with extending wires            | 5 week shipping speed |
+    | PSoC compatible, but requires some code to filter signals         |
 
-**Choice:** Option 2: CTX936TR-ND surface mount oscillator
+**Choice:** Option 2: SNS-DHT11 Thermistor
 
-**Rationale:** A clock oscillator is easier to work with because it requires no external circuitry in order to interface with the PSoC. This is particularly important because we are not sure of the electrical characteristics of the PCB, which could affect the oscillation of a crystal. While the shipping speed is slow, according to the website if we order this week it will arrive within 3 weeks.
+**Rationale:** While it is the more expensive option it comes with 2 thermistors saving our team from placing multiple orders. This product also meets all project requirements as software will be needed to filter input and output signals rather than just purchasing a "plug and play" sensor. This thermistor also has a larger body allowing for easier mounting to our product.
