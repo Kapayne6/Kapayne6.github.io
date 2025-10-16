@@ -8,7 +8,7 @@ title: Component Selection
 
 1. LM35DZ/NOPB 
 
-    ![](image1.png)
+    ![](Thermo1.png)
 
     * $1/each
     * [link to product](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366)
@@ -21,7 +21,7 @@ title: Component Selection
 
 1. CTX936TR-ND surface mount oscillator
 
-    ![](image3.png)
+    ![](Thermo2.png)
 
     * $1/each
     * [Link to product](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940)
