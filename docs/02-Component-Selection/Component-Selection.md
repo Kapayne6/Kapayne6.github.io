@@ -11,7 +11,7 @@ title: Component Selection
     ![](Thermo1.png)
 
     * $1.67/each
-    * [LM35DZ/NOPB]([http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366](https://www.digikey.com/en/products/detail/texas-instruments/LM35DZ-NOPB/32489?))
+    * [LM35DZ/NOPB](http://www.digikey.com/product-detail/en/ECS-40.3-S-5PX-TR/XC1259TR-ND/827366](https://www.digikey.com/en/products/detail/texas-instruments/LM35DZ-NOPB/32489?)
 
     | Pros                                      | Cons                                                             |
     | ----------------------------------------- | ---------------------------------------------------------------- |
@@ -24,7 +24,7 @@ title: Component Selection
     ![](Thermo2.png)
 
     * $1/each
-    * [SNS-DHT11]([http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940](https://www.digikey.com/en/products/detail/olimex-ltd/SNS-DHT11/21662551))
+    * [SNS-DHT11](http://www.digikey.com/product-detail/en/636L3I001M84320/CTX936TR-ND/2292940](https://www.digikey.com/en/products/detail/olimex-ltd/SNS-DHT11/21662551)
 
     | Pros                                                              | Cons                |
     | ----------------------------------------------------------------- | ------------------- |
