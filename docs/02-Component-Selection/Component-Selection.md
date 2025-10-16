@@ -32,6 +32,19 @@ title: Component Selection
     | Through hole connection and comes with extending wires            | 5 week shipping speed |
     | PSoC compatible, but requires some code to filter signals         |
 
-**Choice:** Option 2: SNS-DHT11 Thermistor
+3. MF52A2103J3470 Thermistor
 
-**Rationale:** While it is the more expensive option it comes with 2 thermistors saving our team from placing multiple orders. This product also meets all project requirements as software will be needed to filter input and output signals rather than just purchasing a "plug and play" sensor. This thermistor also has a larger body allowing for easier mounting to our product.
+   ![](Thermo3.png)
+
+   * $0.37/each
+   * [MF52A2103J3470](https://www.digikey.com/en/products/detail/cantherm/MF52A2103J3470/1191033)
+  
+   | Pros                             | Cons                               |
+   | -------------------------------- | ---------------------------------- |
+   | Cheapest Option                  | Worst Tolerances                   |
+   | Simplest construction            | Fragile tails                      |
+   | Easiest to replace               | Most difficult to filter with code |
+   
+**Choice:** Option 3: MF52A2103J3470 Thermistor
+
+**Rationale:** While it is the cheapest option and simplest in form this thermistor best fits the project requirements. It will require the most work to code a filter to process data which is required, and if broken it is the easiest part to replace quickly. This Thermistor also has the worst tolerances which allows for extra experience fine tuning until we reach our desired results.
