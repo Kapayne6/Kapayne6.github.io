@@ -4,7 +4,7 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is design to support 2 thermistors, collect the values output by the thermistors, and send that data to another teamates PIC board.
 
 ![schematic](Screenshot.png){style width:"350" height:"300;"}
 **Figure ##:** Showing a example schematic.
