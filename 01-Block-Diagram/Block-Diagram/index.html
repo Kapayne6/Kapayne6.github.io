@@ -511,9 +511,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#example-block-diagram" class="md-nav__link">
+  <a href="#thermistor-pcb-block-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Example Block Diagram
+      Thermistor PCB Block Diagram
     </span>
   </a>
   
@@ -809,9 +809,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#example-block-diagram" class="md-nav__link">
+  <a href="#thermistor-pcb-block-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Example Block Diagram
+      Thermistor PCB Block Diagram
     </span>
   </a>
   
@@ -843,20 +843,18 @@
   <h1>Individal Block Diagram</h1>
 
 <h2 id="overview">Overview</h2>
-<p>This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:</p>
+<p>The supplied block diagram below displays my systems current configuration. My role is to manage and translate thermistor values into high or low signals which I can transmit to another teammates PCB using an 8 pin connector. My board will be active when it recieves a high signal from Digital pin 2 on connector 2 which will then trigger thermistor values to be read and translated.</p>
+<p>PCB Information:</p>
 <ul>
-<li>power levels</li>
+<li>power levels (1.5 mA)</li>
 <li>sensor - 2 Thermistors</li>
-<li>Actuator</li>
-<li>team connections</li>
-<li>Power source - 5V Regulator</li>
+<li>Actuator - No actuation supplied on this PCB</li>
+<li>team connections - Recieves input value from team light sensor. After comparing two separate temperature readings will output signal to teammates to trigger motor actuation.</li>
+<li>Power source - 5V Regulator to system (9-12V can be supplied through barrel jack)</li>
 <li>...</li>
 </ul>
-<p>To get some initial formatting help, one can view <a href="https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/">"here"</a> some basic techniques.</p>
-<h2 id="example-block-diagram">Example Block Diagram</h2>
-<p>Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Personal_Block_Diagram.drawio.png" data-desc-position="bottom"><img alt="Personal Block Diagram: " src="../Personal_Block_Diagram.drawio.png"></a></p>
+<h2 id="thermistor-pcb-block-diagram">Thermistor PCB Block Diagram</h2>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Personal_Block_Diagram2.png" data-desc-position="bottom"><img alt="Personal Block Diagram: " src="../Personal_Block_Diagram2.png"></a></p>
 
 
 
