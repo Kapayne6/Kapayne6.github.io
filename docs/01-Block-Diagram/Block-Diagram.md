@@ -7,20 +7,18 @@ tags:
 
 ## Overview
 
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
+The supplied block diagram below displays my systems current configuration. My role is to manage and translate thermistor values into high or low signals which I can transmit to another teammates PCB using an 8 pin connector. My board will be active when it recieves a high signal from Digital pin 2 on connector 2 which will then trigger thermistor values to be read and translated.
 
-* power levels
+PCB Information:
+
+* power levels (1.5 mA)
 * sensor - 2 Thermistors
-* Actuator
-* team connections
-* Power source - 5V Regulator
+* Actuator - No actuation supplied on this PCB
+* team connections - Recieves input value from team light sensor. After comparing two separate temperature readings will output signal to teammates to trigger motor actuation.
+* Power source - 5V Regulator to system (9-12V can be supplied through barrel jack)
 * ...
 
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
 
-## Example Block Diagram
+## Thermistor PCB Block Diagram
 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
-
-![Personal Block Diagram: ](Personal_Block_Diagram.drawio.png)
+![Personal Block Diagram: ](Personal_Block_Diagram2.png)
