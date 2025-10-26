@@ -6,9 +6,9 @@ title: Schematic
 
 This schematic is design to support 2 thermistors, collect the values output by the thermistors, and send that data to another teamates PIC board.
 
-![schematic](Schematic_pic.png){style width:"350" height:"300;"}
+![schematic](Schematic_pic2.png){style width:"350" height:"300;"}
 **Figure 01:** Showing current schematic.
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](Project_Schematic_Design.pdf), and the Zip folder of the project [*here*](Project_Schematic_Design.zip).
+The schematic as a PDF download is available [*here*](Project_Schematic_Design.pdf), and the Zip folder of the project [*here*](Project_Schematic_Design2.zip).
