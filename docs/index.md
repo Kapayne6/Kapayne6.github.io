@@ -7,7 +7,7 @@ tags:
 <center>
 <font size= "6">Keith Payne's Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Electric Blinds</font><br>
 for<br>
 <font size= "5"> Team 105 </font><br>
 
@@ -16,12 +16,12 @@ for<br>
 
 ## Introduction
 
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+* This datasheet details the selected components, design, and construction of the thermistor schematic and PCB. It will detail each step needed in the construction of my PCB. 
 
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
+* Our teams project is the construction of temperature equalizing blinds. Utilizing a light sensor we will turn the system on or off based on what rooms are currently lit up. Once the sensor detects light two thermistors will activate and begin measuring the rooms temnperature and comparing it to the temperature against the window. Based on these readings signals will be sent to two different motors for actuation. They will then raise or lower the blind, and open or close the slats to maintain a steady room temperature passively without physical interaction between a human and blinds.
+* [team report.](https://egr304-2025-f-105.github.io/Team105.github.io/)
 
 
 ### My Contribution
