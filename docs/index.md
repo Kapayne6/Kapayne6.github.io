@@ -21,7 +21,7 @@ for<br>
 ### Project Summary
 
 * Our teams project is the construction of temperature equalizing blinds. Utilizing a light sensor we will turn the system on or off based on what rooms are currently lit up. Once the sensor detects light two thermistors will activate and begin measuring the rooms temnperature and comparing it to the temperature against the window. Based on these readings signals will be sent to two different motors for actuation. They will then raise or lower the blind, and open or close the slats to maintain a steady room temperature passively without physical interaction between a human and blinds.
-* [team report.](https://egr304-2025-f-105.github.io/Team105.github.io/)
+* The full [team report.](https://egr304-2025-f-105.github.io/Team105.github.io/) can be found here detailing each members constructed systems and contributions.
 
 
 ### My Contribution
