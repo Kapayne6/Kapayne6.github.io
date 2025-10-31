@@ -10,6 +10,5 @@ The Bill of Materials included below displays all major components required in t
 
 ## Bill of Materials Example (as Image)
 ![](BOM.png){style width: "2000"}
-**Figure 2:** Example Bill of Materials as a screenshot.
+**Figure 1:** Example Bill of Materials as a screenshot.
 
-As you can see, the text can be difficult to read without opening the image.
