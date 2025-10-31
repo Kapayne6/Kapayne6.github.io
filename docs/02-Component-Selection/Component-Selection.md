@@ -48,3 +48,5 @@ title: Component Selection
 **Choice:** Option 3: MF52A2103J3470 Thermistor
 
 **Rationale:** While it is the cheapest option and simplest in form this thermistor best fits the project requirements. It will require the most work to code a filter to process data which is required, and if broken it is the easiest part to replace quickly. This Thermistor also has the worst tolerances which allows for extra experience fine tuning until we reach our desired results.
+
+**Other Notes:** While I am using the MCP6004 Op-amp, the LM7805 Voltage regulator, and the 3 pin barrel jack I did not include a component selection for these 3 parts as they were supplied to us in class, and I am unfamiliar with any alternatives. I decided to stick with these three parts as I have gained experince using them in labs, and already have the parts available to me without needing to order any additional parts or components. The Thermistor recieved its own component selection as we did not have a lab based around its use, and I had to research multiple thermistors that would meet project requirements.
