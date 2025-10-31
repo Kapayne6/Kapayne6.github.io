@@ -12,3 +12,4 @@ The Bill of Materials included below displays all major components required in t
 ![](BOM.png){style width: "2000"}
 **Figure 1:** Bill of Materials as a screenshot.
 
+The excel sheet for the BOM can be found [*here*](Bill of Materials Keith Payne.xlsx)
