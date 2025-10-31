@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-written context
+The Bill of Materials included below displays all major components required in the construction of the PCB. The LED, 10 kOhm resistors, and test points are present in the BOM, but were supplied in bulk at no cost so they're only included to display number required not actual cost to construct.
 
 ## Bill of Materials Example (as Image)
 ![](BOM.png){style width: "2000"}
