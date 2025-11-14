@@ -11,4 +11,4 @@ This schematic is designed to recieve a high or low signal to begin collecting d
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](Project_Schematic_Design_Final.pdf), and the Zip folder of the project [*here*](Project_Schematic_Design3.zip).
+The schematic as a PDF download is available [*here*](Project_Schematic_Design_Final.pdf), and the Zip folder of the project [*here*](Project_Schematic_Design_Final.zip).
