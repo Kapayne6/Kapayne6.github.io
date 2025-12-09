@@ -18,6 +18,8 @@ PCB Information:
 * Power source - 5V Regulator to system (9-12V can be supplied through barrel jack)
 * ...
 
+Importwnce of Block Diagram:
+Helped to properly display the outputs and input pins and how my system will communicate with my groups pcb boards.
 
 ## Thermistor PCB Block Diagram
 
